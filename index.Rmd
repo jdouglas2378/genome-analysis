@@ -1,0 +1,19 @@
+---
+title: "Human Genome Analysis"
+author: "Josiah Douglas"
+date: "3/4/2020"
+output: html_document
+bibliography: data/Bibliography.bib
+---
+
+Lab 3: https://github.com/jdouglas2378/genome-analysis/blob/master/Lab3_jad.html
+
+Lab 4: https://github.com/jdouglas2378/genome-analysis/blob/master/Lab4_jad.html
+
+Lab 5: https://github.com/jdouglas2378/genome-analysis/blob/master/Lab5_jad.html
+
+Lab 6: https://github.com/jdouglas2378/genome-analysis/blob/master/index.html
+
+This is a reference to a paper about malate dehydrogenase and citrate cynthase in R [@Huang_et_al.2018].
+
+# REFERENCE
